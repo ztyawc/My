@@ -9,11 +9,6 @@
 </div>
 
 个人收集并适配Github Actions的各类签到大杂烩
-## 不要fork了 ⭐️star就行 #
-
-[点这里加TG群](https://t.me/joinchat/Os0AUkWMJl43ODBl) 
-
-需要什么签到可以去提[issues](https://github.com/MayoBlueSky/My-Actions/issues),也欢迎PR
 
 # 使用方式
 1. [新建仓库并同步代码](RepoSync.md)
