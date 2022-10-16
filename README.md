@@ -40,15 +40,7 @@
 手动执行一次`同步源仓库`即可
 #### 自动同步
 开启并启用`同步源仓库`即可 每天会定时同步两次
-# 致谢
 
-[@chavyleung](https://github.com/chavyleung/)  
-[@Wenmoux](https://github.com/Wenmoux/)  
-[@NobyDa](https://github.com/NobyDa/)
-
-# 支持一下
-
-  ![支持一下](https://cdn.jsdelivr.net/gh/BlueskyClouds/Script@master/img/2021/05/25/img/wx.png)
 ### 访问量
 
 ![](http://profile-counter.glitch.me/MayoBlueSky/count.svg)
